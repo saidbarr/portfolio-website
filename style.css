@@ -22,3 +22,22 @@ nav a{
 button{
     padding:10px 20px;
 }
+
+#skills{
+    padding:60px;
+}
+
+.skills-container{
+    display:flex;
+    justify-content:center;
+    gap:20px;
+    flex-wrap:wrap;
+}
+
+.skill{
+    width:250px;
+    padding:20px;
+    border:1px solid #ddd;
+    border-radius:10px;
+    text-align:center;
+}
